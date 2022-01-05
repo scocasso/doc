@@ -90,7 +90,7 @@ A "no" may cause problems for using your server or may require you to make addit
 ### Canada
 | Service provider | Box (modem/router) | uPnP available | Port 25 openable | [Hairpinning](http://en.wikipedia.org/wiki/Hairpinning) | Customizable reverse DNS | Fix IP |
 | --- | --- | --- | --- | --- | --- | --- |
-| Telus | Multiple | - | No. Extra charge | - | - | No. Extra charge |
+| Telus | Multiple | - | Business Account Req. | - | - | Business Account Req. |
 | TekSavvy | Multiple | - | Yes | No | - | No. Extra charge |
 
 
